@@ -18,6 +18,8 @@ github 项目源码收集，为gayhub友们提供好的便利，普遍的学生�
 
 人事管理系统：[原文地址](https://github.com/rainweb521/Personnel-Management-System),[项目可预览地址](https://blog.csdn.net/robot_sh/article/details/109538057)
 
+医院挂号系统: [项目可预览地址](https://blog.csdn.net/robot_sh/article/details/109856482)
+
 ### :smile:  C#
 
 学生管理系统：[预览地址]( https://blog.csdn.net/robot_sh/article/details/80991294 )
@@ -34,4 +36,4 @@ github 项目源码收集，为gayhub友们提供好的便利，普遍的学生�
 
 
 
-### :slightly_smiling_face:  联系本人
+### :slightly_smiling_face:  联系本人 
