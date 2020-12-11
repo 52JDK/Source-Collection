@@ -9,19 +9,19 @@
 
 ### :smirk:  java
 
-学生信息系统 :![预览地址](https://blog.csdn.net/robot_sh/article/details/103707016)
+学生信息系统 : [预览地址](https://blog.csdn.net/robot_sh/article/details/103707016)
 
-图书管理系统 :![预览地址](https://blog.csdn.net/robot_sh/article/details/105755377)
+图书管理系统 : [预览地址](https://blog.csdn.net/robot_sh/article/details/105755377)
 
-酒店管理系统 : ![预览地址](https://blog.csdn.net/robot_sh/article/details/107305476)
+酒店管理系统 : [预览地址](https://blog.csdn.net/robot_sh/article/details/107305476)
 
-人事管理系统 : ![预览地址](https://blog.csdn.net/robot_sh/article/details/109538057)
+人事管理系统 : [预览地址](https://blog.csdn.net/robot_sh/article/details/109538057)
 
-医院挂号系统 : ![预览地址](https://blog.csdn.net/robot_sh/article/details/109856482)
+医院挂号系统 : [预览地址](https://blog.csdn.net/robot_sh/article/details/109856482)
 
-在线选房系统 : ![预览地址](https://blog.csdn.net/robot_sh/article/details/110206785)
+在线选房系统 : [预览地址](https://blog.csdn.net/robot_sh/article/details/110206785)
 
-仿微博系统 : ![预览地址](https://blog.csdn.net/robot_sh/article/details/110355894)
+仿微博系统 : [预览地址](https://blog.csdn.net/robot_sh/article/details/110355894)
 
 ### :smile:  C#
 
@@ -35,7 +35,7 @@
 
 ### :blush:  C
 
-学生成绩管理系统：![预览地址](https://blog.csdn.net/robot_sh/article/details/110097970)
+学生成绩管理系统：[预览地址](https://blog.csdn.net/robot_sh/article/details/110097970)
 
 
 
