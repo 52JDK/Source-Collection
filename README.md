@@ -28,6 +28,14 @@
 
 仿微博系统 : [预览地址](https://blog.csdn.net/robot_sh/article/details/110355894)
 
+理财管理系统：[预览地址](https://blog.csdn.net/robot_sh/article/details/111147014)
+
+在线选房系统：[预览地址](https://blog.csdn.net/robot_sh/article/details/110206785)
+
+###### 小游戏
+
+坦克大战：[预览地址](https://blog.csdn.net/robot_sh/article/details/111185522)
+
 ### :smile:  C#
 
 学生管理系统：[预览地址]( https://blog.csdn.net/robot_sh/article/details/80991294 )
@@ -41,6 +49,8 @@
 宿舍管理系统：[预览地址](https://blog.csdn.net/robot_sh/article/details/110502515)
 
 图书管理系统：[预览地址](https://blog.csdn.net/robot_sh/article/details/106042849)
+
+学生选课系统：[预览地址](https://blog.csdn.net/robot_sh/article/details/111490271)
 
 
 
