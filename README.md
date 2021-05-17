@@ -1,6 +1,11 @@
+#小程序
+
+>目前所有的源码，都更新在小程序了，大家可以自行的搜索下载，很方便，微信搜素：小R源码屋
+
+
 # Source-Collection
 
-目前市面上的课程设计层次不齐，有的下载下来都不能运行，这里的课程设计，我都亲自运行过，有时间的我也写了运行教程，为同学们提供好的便利，但是也希望同学们可以在系统中学到东西，而不是为了应付而应付，这与以后找工作会直接相关，普遍的学生管理系统、酒店管理系统目前包含java、C#、PHP.......,欢迎关注我的公众号<font color=red size=4>"程序员小R"</font>，回复 “<font color=red size=4>666</font>” ,获取超过2T的JAVA架构师面试题哦
+目前市面上的课程设计层次不齐，有的下载下来都不能运行，这里的课程设计，我都亲自运行过，有时间的我也写了运行教程，为同学们提供好的便利，但是也希望同学们可以在系统中学到东西，而不是为了应付而应付，这与以后找工作会直接相关，普遍的学生管理系统、酒店管理系统目前包含java、C#、PHP.......,欢迎关注我的公众号<font color=red size=4>"程序员小R"</font>，回复 “<font color=red size=4>666</font>” ,获取超过2T的JAVA架构师面试题哦，<font color=red size=4>本文所有毕设，关注公众号后会自动发给你哦</font>
 
 
 
@@ -32,6 +37,12 @@
 
 在线选房系统：[预览地址](https://blog.csdn.net/robot_sh/article/details/110206785)
 
+简单校医院系统：[预览地址](https://blog.csdn.net/robot_sh/article/details/111869532)
+
+仿百度网盘：[预览地址](https://blog.csdn.net/robot_sh/article/details/111937503)
+
+疫情数据查看：[预览地址](https://blog.csdn.net/robot_sh/article/details/111945849)
+
 ###### 小游戏
 
 坦克大战：[预览地址](https://blog.csdn.net/robot_sh/article/details/111185522)
@@ -54,9 +65,25 @@
 
 
 
+###### 小游戏
+
+五子棋：[预览地址](https://blog.csdn.net/robot_sh/article/details/111686328)
+
+
+
 ### :blush:  C
 
 学生成绩管理系统：[预览地址](https://blog.csdn.net/robot_sh/article/details/110097970)
+
+
+
+### :smile: ASP.NET
+
+学生管理系统：[预览地址](https://blog.csdn.net/robot_sh/article/details/111615188)
+
+
+
+
 
 
 
